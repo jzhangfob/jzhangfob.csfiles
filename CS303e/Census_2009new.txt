@@ -1,0 +1,13 @@
+State	Town	7_2009
+Alabama	Abbeville 	2930
+Alabama	Adamsville 	4782
+Alabama	Addison 	709
+Alabama	Akron 	433
+Alabama	Alabaster 	29861
+Alabama	Albertville 	20115
+Alabama	Alexander City 	15114
+Alabama	Aliceville 	2417
+Alabama	Allgood 	737
+Alabama	Altoona 	966
+Alabama	Andalusia 	8863
+Alabama	Anderson 	355
